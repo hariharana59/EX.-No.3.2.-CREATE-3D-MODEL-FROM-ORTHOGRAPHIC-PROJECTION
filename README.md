@@ -29,16 +29,19 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823401-1b79c82e-7665-4874-8135-52cbce3bb50d.png)
 
 7.	Use extrude option to convert 3D model from sketch
-
 ![image](https://user-images.githubusercontent.com/113594316/198823408-d3d678f1-2247-41a2-abdd-b9a8918daef8.png)
 
 
 8.	After finishing the model convert to drawing sheet per  ISO standard.
-
 ![image](https://user-images.githubusercontent.com/113594316/198823415-9d0a9454-b197-44bf-b90f-179c75602500.png)
+
+
+
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
+
+
 
 ## OUTPUT:
 ![ex 3 2_page-0001](https://github.com/hariharana59/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/144980130/fbaa8395-6bb8-42a5-bb27-b655e667732d)
